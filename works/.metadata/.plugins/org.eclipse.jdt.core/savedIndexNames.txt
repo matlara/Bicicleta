@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+C:\Users\mlara\works\.metadata\.plugins\org.eclipse.jdt.core
+3635809089.index
+2431830071.index
+2053060506.index
+127335136.index
+2921900501.index
+143444809.index
